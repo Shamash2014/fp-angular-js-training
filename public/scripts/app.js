@@ -18,6 +18,4 @@
 			});
 	});
 
-	window.app = app;
-
 } (window, window.angular));
